@@ -1,3 +1,4 @@
+# The program receives an audio file from the user and converts it into text
 # pip install openai-whisper
 import whisper
 
